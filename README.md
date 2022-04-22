@@ -1,1 +1,1 @@
-# Timer-Appp
+# Timer-application
